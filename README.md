@@ -2,6 +2,16 @@
 
 A GitHub-ready database design project for a university student registration system. The project demonstrates relational modeling, SQL implementation, ERD documentation, normalization, sample reporting, and repeatable SQLite database setup.
 
+## Technologies
+
+- SQL
+- SQLite
+- Database Design
+- ERD
+- Normalization
+- Data Modeling
+- System Analysis
+
 ## Business Problem
 
 Universities need a reliable way to manage students, departments, instructors, courses, semester-based course offerings, enrollments, and final grades. This database design reduces duplicate data, protects referential integrity, and supports academic reporting such as transcripts, course enrollment counts, GPA analysis, and instructor workload.

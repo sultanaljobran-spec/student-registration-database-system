@@ -1,0 +1,6 @@
+department_code,department_name,student_count,course_count,offering_count,average_grade_points,average_numeric_score
+CS,Computer Science,6,4,10,2.88,82.48
+ENG,English Language,6,4,5,2.87,82.53
+BUS,Business Administration,6,4,5,2.83,82.13
+IS,Information Systems,6,4,7,2.71,80.86
+MATH,Mathematics,6,4,5,2.31,77.0

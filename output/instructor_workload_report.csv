@@ -1,0 +1,11 @@
+employee_number,instructor_name,department_code,title,sections_taught,total_enrollments,semesters_taught
+E1001,Mona Alsaud,CS,Associate Professor,6,21,4
+E1002,Tariq Alfarsi,CS,Assistant Professor,4,16,4
+E1004,Saleh Alnami,IS,Assistant Professor,4,15,4
+E1007,Rania Alghamdi,MATH,Professor,3,12,3
+E1010,Yasir Alzahrani,ENG,Assistant Professor,3,12,3
+E1003,Heba Alqadi,IS,Lecturer,3,11,3
+E1005,Amal Alotaibi,BUS,Associate Professor,3,11,3
+E1006,Faisal Almutairi,BUS,Lecturer,2,8,2
+E1008,Nasser Alharbi,MATH,Assistant Professor,2,7,2
+E1009,Samia Alrashid,ENG,Lecturer,2,7,2

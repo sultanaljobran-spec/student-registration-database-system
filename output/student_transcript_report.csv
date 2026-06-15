@@ -1,0 +1,121 @@
+university_id,student_name,department_code,semester_name,academic_year,course_code,course_name,credit_hours,status,letter_grade,grade_points
+U2022001,Aisha Alqahtani,CS,Fall,2023-2024,CS101,Introduction to Programming,3,Completed,A,4.0
+U2022001,Aisha Alqahtani,CS,Fall,2023-2024,ENG101,Academic Writing,3,Completed,A,4.0
+U2022001,Aisha Alqahtani,CS,Fall,2024-2025,IS410,IT Project Management,3,Completed,A,4.0
+U2022001,Aisha Alqahtani,CS,Fall,2024-2025,MATH430,Operations Research,3,Completed,C,2.0
+U2022002,Omar Alharbi,CS,Fall,2023-2024,BUS220,Financial Accounting,3,Completed,B+,3.5
+U2022002,Omar Alharbi,CS,Spring,2023-2024,IS101,Foundations of Information Systems,3,Completed,B+,3.5
+U2022002,Omar Alharbi,CS,Spring,2024-2025,BUS330,Business Analytics,3,Enrolled,,
+U2022002,Omar Alharbi,CS,Spring,2024-2025,CS101,Introduction to Programming,3,Enrolled,,
+U2022003,Sara Almutairi,IS,Fall,2023-2024,CS101,Introduction to Programming,3,Completed,D,1.0
+U2022003,Sara Almutairi,IS,Fall,2023-2024,ENG101,Academic Writing,3,Completed,B,3.0
+U2022003,Sara Almutairi,IS,Spring,2023-2024,ENG205,Technical Communication,3,Completed,B,3.0
+U2022003,Sara Almutairi,IS,Fall,2024-2025,IS410,IT Project Management,3,Completed,C,2.0
+U2022004,Fahad Alotaibi,IS,Fall,2023-2024,BUS220,Financial Accounting,3,Withdrawn,,
+U2022004,Fahad Alotaibi,IS,Spring,2023-2024,IS101,Foundations of Information Systems,3,Completed,B+,3.5
+U2022004,Fahad Alotaibi,IS,Fall,2024-2025,MATH320,Probability and Statistics,3,Completed,B+,3.5
+U2022004,Fahad Alotaibi,IS,Spring,2024-2025,CS101,Introduction to Programming,3,Enrolled,,
+U2022005,Noura Alanzi,BUS,Fall,2023-2024,CS101,Introduction to Programming,3,Completed,C+,2.5
+U2022005,Noura Alanzi,BUS,Spring,2023-2024,ENG205,Technical Communication,3,Completed,C,2.0
+U2022005,Noura Alanzi,BUS,Fall,2024-2025,IS410,IT Project Management,3,Failed,F,0.0
+U2022005,Noura Alanzi,BUS,Spring,2024-2025,IS210,Systems Analysis and Design,3,Enrolled,,
+U2022006,Khalid Alsubaie,BUS,Fall,2023-2024,BUS220,Financial Accounting,3,Completed,D,1.0
+U2022006,Khalid Alsubaie,BUS,Fall,2023-2024,MATH101,Calculus I,4,Completed,B,3.0
+U2022006,Khalid Alsubaie,BUS,Fall,2024-2025,MATH320,Probability and Statistics,3,Completed,B,3.0
+U2022006,Khalid Alsubaie,BUS,Spring,2024-2025,CS101,Introduction to Programming,3,Enrolled,,
+U2022007,Maha Alzahrani,MATH,Fall,2023-2024,CS101,Introduction to Programming,3,Completed,A,4.0
+U2022007,Maha Alzahrani,MATH,Spring,2023-2024,CS301,Database Systems,3,Completed,C,2.0
+U2022007,Maha Alzahrani,MATH,Spring,2023-2024,ENG205,Technical Communication,3,Completed,A,4.0
+U2022007,Maha Alzahrani,MATH,Spring,2024-2025,IS210,Systems Analysis and Design,3,Enrolled,,
+U2022008,Yousef Alghamdi,MATH,Fall,2023-2024,BUS220,Financial Accounting,3,Completed,C,2.0
+U2022008,Yousef Alghamdi,MATH,Fall,2023-2024,MATH101,Calculus I,4,Failed,F,0.0
+U2022008,Yousef Alghamdi,MATH,Fall,2024-2025,IS320,Enterprise Architecture,3,Completed,B+,3.5
+U2022008,Yousef Alghamdi,MATH,Fall,2024-2025,MATH320,Probability and Statistics,3,Withdrawn,,
+U2022009,Lina Alrashid,ENG,Spring,2023-2024,CS301,Database Systems,3,Completed,B,3.0
+U2022009,Lina Alrashid,ENG,Spring,2023-2024,ENG205,Technical Communication,3,Completed,D,1.0
+U2022009,Lina Alrashid,ENG,Fall,2024-2025,ENG420,Research Writing,3,Completed,B,3.0
+U2022009,Lina Alrashid,ENG,Spring,2024-2025,IS210,Systems Analysis and Design,3,Enrolled,,
+U2022010,Abdulaziz Alfahad,ENG,Fall,2023-2024,MATH101,Calculus I,4,Completed,C,2.0
+U2022010,Abdulaziz Alfahad,ENG,Fall,2024-2025,IS320,Enterprise Architecture,3,Completed,C+,2.5
+U2022010,Abdulaziz Alfahad,ENG,Fall,2024-2025,MATH320,Probability and Statistics,3,Completed,C+,2.5
+U2022010,Abdulaziz Alfahad,ENG,Spring,2024-2025,ENG205,Technical Communication,3,Enrolled,,
+U2023011,Reem Alnasser,CS,Fall,2023-2024,IS210,Systems Analysis and Design,3,Completed,D,1.0
+U2023011,Reem Alnasser,CS,Spring,2023-2024,CS301,Database Systems,3,Completed,A,4.0
+U2023011,Reem Alnasser,CS,Fall,2024-2025,ENG420,Research Writing,3,Completed,A,4.0
+U2023011,Reem Alnasser,CS,Spring,2024-2025,IS210,Systems Analysis and Design,3,Enrolled,,
+U2023012,Saad Alshammari,CS,Fall,2023-2024,MATH101,Calculus I,4,Withdrawn,,
+U2023012,Saad Alshammari,CS,Spring,2023-2024,MATH210,Linear Algebra,3,Completed,B,3.0
+U2023012,Saad Alshammari,CS,Fall,2024-2025,IS320,Enterprise Architecture,3,Completed,B,3.0
+U2023012,Saad Alshammari,CS,Spring,2024-2025,ENG205,Technical Communication,3,Enrolled,,
+U2023013,Huda Alomari,IS,Fall,2023-2024,IS210,Systems Analysis and Design,3,Completed,A,4.0
+U2023013,Huda Alomari,IS,Spring,2023-2024,CS301,Database Systems,3,Completed,A,4.0
+U2023013,Huda Alomari,IS,Fall,2024-2025,BUS450,Strategic Management,3,Completed,A,4.0
+U2023013,Huda Alomari,IS,Fall,2024-2025,ENG420,Research Writing,3,Completed,A,4.0
+U2023014,Turki Alenezi,IS,Spring,2023-2024,MATH210,Linear Algebra,3,Completed,D,1.0
+U2023014,Turki Alenezi,IS,Fall,2024-2025,IS320,Enterprise Architecture,3,Completed,B+,3.5
+U2023014,Turki Alenezi,IS,Spring,2024-2025,CS301,Database Systems,3,Enrolled,,
+U2023014,Turki Alenezi,IS,Spring,2024-2025,ENG205,Technical Communication,3,Enrolled,,
+U2023015,Dana Almansour,BUS,Fall,2023-2024,BUS101,Principles of Management,3,Completed,C+,2.5
+U2023015,Dana Almansour,BUS,Fall,2023-2024,IS210,Systems Analysis and Design,3,Completed,C+,2.5
+U2023015,Dana Almansour,BUS,Fall,2024-2025,BUS450,Strategic Management,3,Completed,C+,2.5
+U2023015,Dana Almansour,BUS,Fall,2024-2025,ENG420,Research Writing,3,Completed,C,2.0
+U2023016,Majed Alruwaili,BUS,Spring,2023-2024,CS201,Data Structures,3,Completed,B+,3.5
+U2023016,Majed Alruwaili,BUS,Spring,2023-2024,MATH210,Linear Algebra,3,Failed,F,0.0
+U2023016,Majed Alruwaili,BUS,Spring,2024-2025,CS301,Database Systems,3,Enrolled,,
+U2023016,Majed Alruwaili,BUS,Spring,2024-2025,ENG205,Technical Communication,3,Enrolled,,
+U2023017,Latifa Alsaif,MATH,Fall,2023-2024,BUS101,Principles of Management,3,Completed,A,4.0
+U2023017,Latifa Alsaif,MATH,Fall,2023-2024,IS210,Systems Analysis and Design,3,Completed,A,4.0
+U2023017,Latifa Alsaif,MATH,Fall,2024-2025,BUS450,Strategic Management,3,Completed,D,1.0
+U2023017,Latifa Alsaif,MATH,Fall,2024-2025,CS340,Web Application Development,3,Withdrawn,,
+U2023018,Bader Almalki,MATH,Spring,2023-2024,CS201,Data Structures,3,Completed,B,3.0
+U2023018,Bader Almalki,MATH,Spring,2023-2024,MATH210,Linear Algebra,3,Completed,B,3.0
+U2023018,Bader Almalki,MATH,Fall,2024-2025,ENG310,Professional Presentation,2,Completed,B,3.0
+U2023018,Bader Almalki,MATH,Spring,2024-2025,CS301,Database Systems,3,Enrolled,,
+U2023019,Jawaher Alshahrani,ENG,Fall,2023-2024,BUS101,Principles of Management,3,Completed,A,4.0
+U2023019,Jawaher Alshahrani,ENG,Fall,2024-2025,BUS450,Strategic Management,3,Completed,A,4.0
+U2023019,Jawaher Alshahrani,ENG,Fall,2024-2025,CS340,Web Application Development,3,Completed,C,2.0
+U2023019,Jawaher Alshahrani,ENG,Spring,2024-2025,MATH320,Probability and Statistics,3,Enrolled,,
+U2023020,Sultan Alkhaldi,ENG,Fall,2023-2024,CS201,Data Structures,3,Completed,C+,2.5
+U2023020,Sultan Alkhaldi,ENG,Spring,2023-2024,CS201,Data Structures,3,Completed,C+,2.5
+U2023020,Sultan Alkhaldi,ENG,Fall,2024-2025,ENG310,Professional Presentation,2,Completed,C+,2.5
+U2023020,Sultan Alkhaldi,ENG,Spring,2024-2025,CS301,Database Systems,3,Enrolled,,
+U2024021,Maryam Alabdullah,CS,Fall,2023-2024,BUS101,Principles of Management,3,Completed,B,3.0
+U2024021,Maryam Alabdullah,CS,Spring,2023-2024,IS210,Systems Analysis and Design,3,Completed,C,2.0
+U2024021,Maryam Alabdullah,CS,Fall,2024-2025,CS340,Web Application Development,3,Completed,B,3.0
+U2024021,Maryam Alabdullah,CS,Spring,2024-2025,MATH320,Probability and Statistics,3,Enrolled,,
+U2024022,Nawaf Alhussain,CS,Fall,2023-2024,CS201,Data Structures,3,Completed,B+,3.5
+U2024022,Nawaf Alhussain,CS,Spring,2023-2024,CS201,Data Structures,3,Completed,C,2.0
+U2024022,Nawaf Alhussain,CS,Fall,2024-2025,BUS330,Business Analytics,3,Completed,D,1.0
+U2024022,Nawaf Alhussain,CS,Fall,2024-2025,ENG310,Professional Presentation,2,Completed,B+,3.5
+U2024023,Raghad Aljohani,IS,Spring,2023-2024,IS210,Systems Analysis and Design,3,Completed,A,4.0
+U2024023,Raghad Aljohani,IS,Fall,2024-2025,CS340,Web Application Development,3,Completed,A,4.0
+U2024023,Raghad Aljohani,IS,Spring,2024-2025,CS201,Data Structures,3,Enrolled,,
+U2024023,Raghad Aljohani,IS,Spring,2024-2025,MATH320,Probability and Statistics,3,Enrolled,,
+U2024024,Meshari Alamri,IS,Fall,2023-2024,CS201,Data Structures,3,Completed,C,2.0
+U2024024,Meshari Alamri,IS,Fall,2023-2024,IS101,Foundations of Information Systems,3,Completed,B,3.0
+U2024024,Meshari Alamri,IS,Fall,2024-2025,BUS330,Business Analytics,3,Completed,B,3.0
+U2024024,Meshari Alamri,IS,Fall,2024-2025,ENG310,Professional Presentation,2,Failed,F,0.0
+U2024025,Shahad Albishi,BUS,Spring,2023-2024,CS101,Introduction to Programming,3,Completed,C+,2.5
+U2024025,Shahad Albishi,BUS,Spring,2023-2024,IS210,Systems Analysis and Design,3,Withdrawn,,
+U2024025,Shahad Albishi,BUS,Spring,2024-2025,CS201,Data Structures,3,Enrolled,,
+U2024025,Shahad Albishi,BUS,Spring,2024-2025,MATH320,Probability and Statistics,3,Enrolled,,
+U2024026,Rakan Aldosari,BUS,Fall,2023-2024,CS201,Data Structures,3,Completed,B+,3.5
+U2024026,Rakan Aldosari,BUS,Fall,2023-2024,IS101,Foundations of Information Systems,3,Completed,C,2.0
+U2024026,Rakan Aldosari,BUS,Fall,2024-2025,BUS330,Business Analytics,3,Completed,B+,3.5
+U2024026,Rakan Aldosari,BUS,Fall,2024-2025,CS301,Database Systems,3,Completed,B+,3.5
+U2024027,Hanan Alshareef,MATH,Spring,2023-2024,CS101,Introduction to Programming,3,Failed,F,0.0
+U2024027,Hanan Alshareef,MATH,Spring,2023-2024,IS210,Systems Analysis and Design,3,Completed,B,3.0
+U2024027,Hanan Alshareef,MATH,Fall,2024-2025,MATH430,Operations Research,3,Completed,B,3.0
+U2024027,Hanan Alshareef,MATH,Spring,2024-2025,CS201,Data Structures,3,Enrolled,,
+U2024028,Ibrahim Almajid,MATH,Fall,2023-2024,IS101,Foundations of Information Systems,3,Completed,D,1.0
+U2024028,Ibrahim Almajid,MATH,Fall,2024-2025,BUS330,Business Analytics,3,Completed,B+,3.5
+U2024028,Ibrahim Almajid,MATH,Fall,2024-2025,CS301,Database Systems,3,Completed,B+,3.5
+U2024028,Ibrahim Almajid,MATH,Spring,2024-2025,BUS330,Business Analytics,3,Enrolled,,
+U2024029,Jana Alfaisal,ENG,Fall,2023-2024,ENG101,Academic Writing,3,Completed,A,4.0
+U2024029,Jana Alfaisal,ENG,Spring,2023-2024,CS101,Introduction to Programming,3,Completed,A,4.0
+U2024029,Jana Alfaisal,ENG,Fall,2024-2025,MATH430,Operations Research,3,Completed,A,4.0
+U2024029,Jana Alfaisal,ENG,Spring,2024-2025,CS201,Data Structures,3,Enrolled,,
+U2024030,Hassan Alhabib,ENG,Fall,2023-2024,IS101,Foundations of Information Systems,3,Completed,C+,2.5
+U2024030,Hassan Alhabib,ENG,Spring,2023-2024,IS101,Foundations of Information Systems,3,Completed,C+,2.5
+U2024030,Hassan Alhabib,ENG,Fall,2024-2025,CS301,Database Systems,3,Completed,C+,2.5
+U2024030,Hassan Alhabib,ENG,Spring,2024-2025,BUS330,Business Analytics,3,Enrolled,,

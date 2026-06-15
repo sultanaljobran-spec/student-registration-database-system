@@ -1,0 +1,33 @@
+semester_name,academic_year,course_code,course_name,section_number,capacity,enrolled_students,available_seats
+Fall,2023-2024,BUS101,Principles of Management,01,40,4,36
+Fall,2023-2024,BUS220,Financial Accounting,01,40,4,36
+Fall,2023-2024,CS101,Introduction to Programming,01,35,4,31
+Fall,2023-2024,CS201,Data Structures,01,30,4,26
+Fall,2023-2024,ENG101,Academic Writing,01,35,3,32
+Fall,2023-2024,IS101,Foundations of Information Systems,01,35,4,31
+Fall,2023-2024,IS210,Systems Analysis and Design,01,30,4,26
+Fall,2023-2024,MATH101,Calculus I,01,30,4,26
+Spring,2023-2024,CS101,Introduction to Programming,01,35,3,32
+Spring,2023-2024,CS201,Data Structures,01,30,4,26
+Spring,2023-2024,CS301,Database Systems,01,30,4,26
+Spring,2023-2024,ENG205,Technical Communication,01,35,4,31
+Spring,2023-2024,IS101,Foundations of Information Systems,01,35,3,32
+Spring,2023-2024,IS210,Systems Analysis and Design,01,30,4,26
+Spring,2023-2024,MATH210,Linear Algebra,01,30,4,26
+Fall,2024-2025,BUS330,Business Analytics,01,40,4,36
+Fall,2024-2025,BUS450,Strategic Management,01,40,4,36
+Fall,2024-2025,CS301,Database Systems,01,30,3,27
+Fall,2024-2025,CS340,Web Application Development,01,30,4,26
+Fall,2024-2025,ENG310,Professional Presentation,01,35,4,31
+Fall,2024-2025,ENG420,Research Writing,01,35,4,31
+Fall,2024-2025,IS320,Enterprise Architecture,01,30,4,26
+Fall,2024-2025,IS410,IT Project Management,01,30,3,27
+Fall,2024-2025,MATH320,Probability and Statistics,01,30,4,26
+Fall,2024-2025,MATH430,Operations Research,01,30,3,27
+Spring,2024-2025,BUS330,Business Analytics,02,40,3,37
+Spring,2024-2025,CS101,Introduction to Programming,01,35,3,32
+Spring,2024-2025,CS201,Data Structures,01,30,4,26
+Spring,2024-2025,CS301,Database Systems,02,30,4,26
+Spring,2024-2025,ENG205,Technical Communication,02,35,4,31
+Spring,2024-2025,IS210,Systems Analysis and Design,02,30,4,26
+Spring,2024-2025,MATH320,Probability and Statistics,02,30,4,26

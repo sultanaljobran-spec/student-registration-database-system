@@ -1,6 +1,60 @@
 # Student Registration Database System
 
+Project Type: Academic Portfolio Project
+
+Technologies:
+SQL | SQLite | Python | Flask | Chart.js | Database Design | ERD | System Analysis
+
 A GitHub-ready database design project for a university student registration system. The project demonstrates relational modeling, SQL implementation, ERD documentation, normalization, sample reporting, and repeatable SQLite database setup.
+
+## Academic Performance Dashboard
+
+The project includes a Flask-based academic analytics dashboard connected to the SQLite student registration database.
+
+The dashboard provides visual insights into:
+
+* Student enrollment
+* Academic performance
+* GPA monitoring
+* Department statistics
+* Course demand
+* Instructor workload
+* Grade distribution
+* At-risk student monitoring
+
+### Dashboard Features
+
+* Total Students
+* Total Courses
+* Total Instructors
+* Average GPA
+* At-Risk Students
+* Department Filter
+* Course Filter
+* GPA Threshold Filter
+* Semester Filter
+* Students by Department
+* Average GPA by Department
+* Grade Distribution
+* Course Enrollment Count
+* Instructor Workload
+* Top 10 Students by GPA
+* At-Risk Students Table
+* Course Enrollment Summary
+
+### Dashboard Screenshots
+
+#### Dashboard Overview
+
+![Academic Dashboard Overview](screenshots/academic-dashboard-overview.png)
+
+#### Academic Analytics
+
+![Academic Dashboard Analytics](screenshots/academic-dashboard-analytics.png)
+
+#### Course Enrollment Summary
+
+![Academic Dashboard Summary](screenshots/academic-dashboard-summary.png)
 
 ## Technologies
 
@@ -11,6 +65,12 @@ A GitHub-ready database design project for a university student registration sys
 - Normalization
 - Data Modeling
 - System Analysis
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Chart.js
 
 ## Business Problem
 
@@ -23,14 +83,8 @@ Universities need a reliable way to manage students, departments, instructors, c
 - Realistic sample data for departments, students, instructors, courses, offerings, enrollments, and grades
 - SQL analysis queries for academic and administrative reporting
 - Python scripts to create the database, run analysis queries, and export CSV reports
+- Flask-based Academic Performance Dashboard with KPI cards, filters, charts, analytics tables, and CSV report export
 - Complete documentation for business rules, requirements, ERD, normalization, data dictionary, and query explanations
-
-## Tech Stack
-
-- SQL
-- SQLite
-- Python 3.10+
-- Markdown
 
 ## Database Entities
 
@@ -81,8 +135,6 @@ From the project root:
 
 ```bash
 python scripts/create_database.py
-python scripts/run_queries.py
-python scripts/export_reports.py
 ```
 
 The database is created at:
@@ -90,6 +142,50 @@ The database is created at:
 ```text
 database/student_registration.db
 ```
+
+To run the reporting scripts:
+
+```bash
+python scripts/run_queries.py
+python scripts/export_reports.py
+```
+
+## Running the Dashboard
+
+```bash
+python scripts/create_database.py
+python app.py
+```
+
+Open the dashboard using the Flask URL shown in the terminal.
+
+Example:
+
+```text
+http://127.0.0.1:5001/dashboard
+```
+
+The SQLite database is generated locally by:
+
+```bash
+python scripts/create_database.py
+```
+
+and should not be committed to GitHub.
+
+Dashboard API routes:
+
+- `/`
+- `/dashboard`
+- `/api/kpis`
+- `/api/students-by-department`
+- `/api/gpa-by-department`
+- `/api/course-enrollment`
+- `/api/instructor-workload`
+- `/api/grade-distribution`
+- `/api/at-risk-students`
+- `/api/top-students`
+- `/api/student-gpa`
 
 ## Output Reports
 
@@ -106,11 +202,17 @@ CSV reports are exported to the `output/` folder:
 student-registration-database-system/
 |-- README.md
 |-- requirements.txt
+|-- app.py
+|-- templates/
+|   |-- base.html
+|   `-- dashboard.html
+|-- static/
+|   |-- style.css
+|   `-- dashboard.js
 |-- database/
 |   |-- schema.sql
 |   |-- sample_data.sql
-|   |-- queries.sql
-|   `-- student_registration.db
+|   `-- queries.sql
 |-- scripts/
 |   |-- create_database.py
 |   |-- run_queries.py
@@ -128,12 +230,16 @@ student-registration-database-system/
 |   |-- data_dictionary.md
 |   `-- sql_queries_explained.md
 `-- screenshots/
-    `-- .gitkeep
+    |-- .gitkeep
+    |-- academic-dashboard.png
+    |-- academic-dashboard-overview.png
+    |-- academic-dashboard-analytics.png
+    `-- academic-dashboard-summary.png
 ```
 
 ## Screenshots
 
-Add screenshots of the database tables, query outputs, or exported reports to the `screenshots/` folder.
+Dashboard screenshots are shown in the Academic Performance Dashboard section near the top of this README. Additional screenshots of database tables, query outputs, or exported reports can also be stored in the `screenshots/` folder.
 
 ## Future Improvements
 
@@ -142,7 +248,11 @@ Add screenshots of the database tables, query outputs, or exported reports to th
 - Add tuition billing and payment records
 - Add audit tables for enrollment changes
 - Add automated tests for constraints and report queries
+- Add filters for semester, department, and enrollment status in the dashboard
 
 ## Author
 
-Prepared as an Information Systems graduate portfolio project.
+Sultan Aljobran
+
+GitHub:
+[https://github.com/sultanaljobran-spec](https://github.com/sultanaljobran-spec)

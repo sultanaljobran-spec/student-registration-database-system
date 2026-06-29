@@ -12,6 +12,15 @@
 - Store final grades for completed or failed enrollments.
 - Generate student transcript reports.
 - Generate course enrollment, department performance, and instructor workload reports.
+- Provide a supporting dashboard interface for viewing academic performance indicators and report summaries.
+
+## Systems Analysis Scope
+
+- Model the academic registration workflow from department ownership through course offerings, student enrollments, and final grades.
+- Separate course catalog data from semester-specific course offering data.
+- Represent the many-to-many relationship between students and course offerings through the enrollments bridge table.
+- Support administrative decision-making with SQL reports and dashboard summaries.
+- Keep the Flask dashboard as a reporting interface over the database rather than the core system of record.
 
 ## Non-Functional Requirements
 
